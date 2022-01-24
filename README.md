@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @BrightStyes3
-- 👀 I’m interested in 3D rendering
+#### Hello World!
+- 👋 Hi, I’m BrightStyes3
+- 👀 I’m interested in Science Fiction
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Web Sever
 - 📫 Reach me to brightstyes3@gmail.com
